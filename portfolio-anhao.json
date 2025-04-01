@@ -1,0 +1,112 @@
+{
+  "name": "Phạm An Hào",
+  "label": "Software Engineer",
+  "image_path": "portfolio_media/profile.jpg",
+  "contact": {
+    "email": "",
+    "phone": "",
+    "location": "Hồ Chí Minh City"
+  },
+  "summary": "Đã học lập trình Web tại FPT Aptech Saigon. Quan tâm đến toán học, phát triển phần mềm, Vim, Unix và chữ Hán.",
+  "url": "https://coreyms.com",
+  "social_links": [
+    {
+      "label": "anhao.com",
+      "url": "https://anhao.com",
+      "svg_path": "img/globe.svg"
+    },
+    {
+      "label": "Github",
+      "url": "https://github.com/tgoldenphoenix",
+      "svg_path": "img/github.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "FPT Aptech TP.HCM",
+      "position": "Sinh viên",
+      "url": "https://www.facebook.com/aptech.fpt",
+      "start_date": "2023",
+      "end_date": "2025",
+      "summary": "",
+      "highlights": ""
+    }
+  ],
+  "projects": [
+    {
+      "title": "Educational Content Creator on YouTube",
+      "summary": "Channel focused on creating tutorials and walkthroughs for software developers, programmers, and engineers.",
+      "url": "https://youtube.com/c/coreyms",
+      "highlights": ["Over 1 million subscribers", "Over 100 million views"],
+      "images": [
+        {
+          "img_path": "portfolio_media/yt1.png",
+          "caption": "Main Channel"
+        },
+        {
+          "img_path": "portfolio_media/yt2.png",
+          "caption": "Tutorials"
+        },
+        {
+          "img_path": "portfolio_media/yt3.png",
+          "caption": "Live Streams"
+        }
+      ]
+    }
+  ],
+  "volunteer_experience": null,
+  "education": [
+    {
+      "institution": "Marshall University",
+      "location": "Hungington, WV, USA",
+      "url": "https://marshall.edu",
+      "degrees": [
+        "Bachelor of Science in Computer Science",
+        "Minor in Mathematics"
+      ],
+      "honors": [
+        "2010 Outstanding Student Award",
+        "2005 R.L. “Buck” Woodall Student-Athlete scholarship",
+        "Placed in a District ACM ICPC Team Programming Contest"
+      ],
+      "gpa_cumulative": "3.29",
+      "gpa_major": "3.93",
+      "graduation_date": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python, Flask, Django",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "System Administration, Linux",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "JavaScript, HTML, CSS",
+      "proficiency": 75,
+      "proficiency_label": "Comfortable"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Woodworking",
+      "summary": "",
+      "images": [
+        {
+          "img_path": "portfolio_media/ww1.jpg",
+          "caption": "Chess Board made from Walnut and Maple"
+        },
+        {
+          "img_path": "portfolio_media/ww2.jpg",
+          "caption": "Wooden Necklace from Walnut Scrap"
+        }
+      ]
+    }
+  ],
+  "languages": [],
+  "references": []
+}
