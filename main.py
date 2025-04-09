@@ -1,3 +1,4 @@
+# This file auto-generated when run `uv init`
 def main():
     print("Hello from portfolio-generator!")
 

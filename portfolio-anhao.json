@@ -1,13 +1,13 @@
 {
   "name": "Phạm An Hào",
-  "label": "Software Engineer",
+  "label": "Web Developer",
   "image_path": "portfolio_media/profile.jpg",
   "contact": {
     "email": "",
     "phone": "",
-    "location": "Hồ Chí Minh City"
+    "location": "Ho Chi Minh City"
   },
-  "summary": "Đã học lập trình Web tại FPT Aptech Saigon. Quan tâm đến toán học, phát triển phần mềm, Vim, Unix và chữ Hán.",
+  "summary": "I learned Web Development at FPT Aptech Saigon. I am interested in Math, software development, Vim, Unix and Chinese Characters.",
   "url": "https://coreyms.com",
   "social_links": [
     {
@@ -34,22 +34,24 @@
   ],
   "projects": [
     {
-      "title": "Educational Content Creator on YouTube",
-      "summary": "Channel focused on creating tutorials and walkthroughs for software developers, programmers, and engineers.",
-      "url": "https://youtube.com/c/coreyms",
-      "highlights": ["Over 1 million subscribers", "Over 100 million views"],
+      "title": "Trello UI clone with ReactJS",
+      "summary": "Implement Drag-drop using DND Kit and other Materil UI components.",
+      "url": "https://www.google.com/",
+      "live_url": null,
+      "github": null,
+      "highlights": ["Drag-drop boards & cards", "Material UI library"],
       "images": [
         {
-          "img_path": "portfolio_media/yt1.png",
-          "caption": "Main Channel"
+          "img_path": "portfolio_media/light.png",
+          "caption": "Light mode"
         },
         {
-          "img_path": "portfolio_media/yt2.png",
-          "caption": "Tutorials"
+          "img_path": "portfolio_media/dark.png",
+          "caption": "Dark mode"
         },
         {
-          "img_path": "portfolio_media/yt3.png",
-          "caption": "Live Streams"
+          "img_path": "portfolio_media/drag.png",
+          "caption": "Drag and Drop"
         }
       ]
     }
@@ -57,56 +59,61 @@
   "volunteer_experience": null,
   "education": [
     {
-      "institution": "Marshall University",
-      "location": "Hungington, WV, USA",
-      "url": "https://marshall.edu",
-      "degrees": [
-        "Bachelor of Science in Computer Science",
-        "Minor in Mathematics"
-      ],
-      "honors": [
-        "2010 Outstanding Student Award",
-        "2005 R.L. “Buck” Woodall Student-Athlete scholarship",
-        "Placed in a District ACM ICPC Team Programming Contest"
-      ],
-      "gpa_cumulative": "3.29",
-      "gpa_major": "3.93",
-      "graduation_date": "2010"
+      "institution": "FPT Aptech HCM",
+      "location": "Ho Chi Minh City",
+      "url": "https://www.facebook.com/aptech.fpt/?locale=vi_VN",
+      "degrees": null,
+      "honors": null,
+      "gpa_cumulative": null,
+      "gpa_major": null,
+      "graduation_date": "2025"
     }
   ],
   "skills": [
     {
-      "name": "Python, Flask, Django",
-      "proficiency": 100,
-      "proficiency_label": "Expert"
+      "category": "Front End",
+      "skills": "CSS(SASS), ReactJS, Material UI"
     },
     {
-      "name": "System Administration, Linux",
-      "proficiency": 90,
-      "proficiency_label": "Advanced"
+      "category": "Back End",
+      "skills": "Have experience working with RESTful API"
     },
     {
-      "name": "JavaScript, HTML, CSS",
-      "proficiency": 75,
-      "proficiency_label": "Comfortable"
+      "category": "DevOps",
+      "skills": "Linux, git, bash, vim, Vite"
     }
   ],
   "interests": [
     {
-      "name": "Woodworking",
-      "summary": "",
+      "name": "Learn Chinese character",
+      "summary": "Chinese characters are widely used in China, Japan and Viet Nam (until the 20th century)",
       "images": [
         {
-          "img_path": "portfolio_media/ww1.jpg",
-          "caption": "Chess Board made from Walnut and Maple"
-        },
+          "img_path": "portfolio_media/anki.png",
+          "caption": "My self-made Anki deck has over 2000 characters"
+        }
+      ]
+    },
+    {
+      "name": "Learning Math",
+      "summary": "I am not good at math but I like it",
+      "images": [
         {
-          "img_path": "portfolio_media/ww2.jpg",
-          "caption": "Wooden Necklace from Walnut Scrap"
+          "img_path": "portfolio_media/latex.png",
+          "caption": "I write my own math notes with LaTex using Neovim"
         }
       ]
     }
   ],
-  "languages": [],
+  "languages": [
+    {
+      "language": "Vietnamese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional Working Proficiency"
+    }
+  ],
   "references": []
 }

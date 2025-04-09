@@ -281,6 +281,11 @@ aside li {
   display: flex; /* This is for HTML Whitespace Issues */
 }
 
+/* Skill */
+.skill-category {
+  font-weight:bold;
+}
+
 /* Skillbars */
 .skill-bar {
   width: 100%;
