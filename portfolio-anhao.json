@@ -36,10 +36,10 @@
     {
       "title": "Trello UI clone with ReactJS",
       "summary": "Implement Drag-drop using DND Kit and Materil UI components.",
-      "url": "https://www.google.com/",
+      "url": "https://github.com/tgoldenphoenix/trello-clone-web",
       "live_url": null,
-      "video_demo": "https://www.google.com/",
-      "github": "https://github.com/tgoldenphoenix",
+      "video_demo": "https://drive.google.com/drive/folders/1MxnPfujTQAsMMRZ-4WQ6X8R1rUjq9Wh5?usp=sharing",
+      "github": null,
       "highlights": [
         "React - React Hooks - JSX...",
         "Drag-drop boards & cards using DND Kit",
