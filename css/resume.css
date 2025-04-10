@@ -1,3 +1,4 @@
+/* Allow page to be printed as pdf */
 @page {
   size: letter;
   margin: 0in;

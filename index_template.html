@@ -152,7 +152,15 @@
                     <ul>
                       {% for highlight in project.highlights %}<li>{{ highlight }}</li>{% endfor %}
                     </ul>
-                  {% endif %}
+                  {% endif %} 
+                  {% if project.github %}
+                    <a href="{{ project.github }}">Github repo</a>
+                  {% endif %} 
+                  {% if project.video_demo %}
+                    <div>
+                      <a href="{{ project.video_demo }}">Video demo</a>
+                    </div>
+                  {% endif %} 
                   {% if project.images %}
                     <div class="gallery main-gallery">
                       {% for img in project.images %}

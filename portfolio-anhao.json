@@ -3,7 +3,7 @@
   "label": "Web Developer",
   "image_path": "portfolio_media/profile.jpg",
   "contact": {
-    "email": "",
+    "email": "anhaophamx@gmail.com",
     "phone": "",
     "location": "Ho Chi Minh City"
   },
@@ -24,7 +24,7 @@
   "work_experience": [
     {
       "company": "FPT Aptech TP.HCM",
-      "position": "Sinh viên",
+      "position": "Student",
       "url": "https://www.facebook.com/aptech.fpt",
       "start_date": "2023",
       "end_date": "2025",
@@ -35,11 +35,16 @@
   "projects": [
     {
       "title": "Trello UI clone with ReactJS",
-      "summary": "Implement Drag-drop using DND Kit and other Materil UI components.",
+      "summary": "Implement Drag-drop using DND Kit and Materil UI components.",
       "url": "https://www.google.com/",
       "live_url": null,
-      "github": null,
-      "highlights": ["Drag-drop boards & cards", "Material UI library"],
+      "video_demo": "https://www.google.com/",
+      "github": "https://github.com/tgoldenphoenix",
+      "highlights": [
+        "React - React Hooks - JSX...",
+        "Drag-drop boards & cards using DND Kit",
+        "Material UI Design"
+      ],
       "images": [
         {
           "img_path": "portfolio_media/light.png",
@@ -72,20 +77,20 @@
   "skills": [
     {
       "category": "Front End",
-      "skills": "CSS(SASS), ReactJS, Material UI"
+      "skills": "HTML5, CSS3(SASS), JavaScript, ReactJS, Material UI, TailwindCSS, Redux"
     },
     {
       "category": "Back End",
-      "skills": "Have experience working with RESTful API"
+      "skills": "NodeJS (Express), RESTful API"
     },
     {
       "category": "DevOps",
-      "skills": "Linux, git, bash, vim, Vite"
+      "skills": "Linux, Git, Github, bash, Neovim, Vite"
     }
   ],
   "interests": [
     {
-      "name": "Learn Chinese character",
+      "name": "Learning Chinese Character",
       "summary": "Chinese characters are widely used in China, Japan and Viet Nam (until the 20th century)",
       "images": [
         {
@@ -100,7 +105,7 @@
       "images": [
         {
           "img_path": "portfolio_media/latex.png",
-          "caption": "I write my own math notes with LaTex using Neovim"
+          "caption": "I write my own math notes in LaTex using Neovim"
         }
       ]
     }
