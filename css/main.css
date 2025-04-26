@@ -380,6 +380,7 @@ blockquote {
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 }
 
+/* 600px */
 @media (min-width: 37.5rem) {
   .main-gallery {
     grid-template-columns: repeat(3, 1fr);
@@ -390,6 +391,7 @@ blockquote {
   }
 }
 
+/* 768px */
 @media (min-width: 48rem) {
   aside {
     border-top: none;

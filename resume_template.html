@@ -75,6 +75,11 @@
                     </li>
                   {% endif %}
                   {% if contact.location %}<li>{{ contact.location }}</li>{% endif %}
+                  {% if contact.dob %}
+                    <li>
+                      DOB: {{ contact.dob }}
+                    </li>
+                  {% endif %}
                 </ul>
               </address>
             {% endif %}

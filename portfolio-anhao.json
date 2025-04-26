@@ -4,16 +4,18 @@
   "image_path": "portfolio_media/profile.jpg",
   "contact": {
     "email": "anhaophamx@gmail.com",
-    "phone": "",
-    "location": "Ho Chi Minh City"
+    "phone": "+84 83 530 1183",
+    "location": "Ho Chi Minh City",
+    "dob": "25/12/2002"
   },
   "summary": "I learned Web Development at FPT Aptech Saigon. I am interested in Math, software development, Vim, Unix and Chinese Characters.",
   "url": "https://coreyms.com",
   "social_links": [
     {
-      "label": "Personal Website",
-      "url": "https://tgoldenphoenix.github.io/portfolio_generator/",
-      "svg_path": "img/globe.svg"
+      "label": "curriculum vitae",
+      "url": "https://drive.google.com/file/d/1wa7EIfGH3Kebhh8jtmX-CeuznlN2QK0D/view?usp=sharing",
+      "url1": "_self",
+      "svg_path": "img/curriculum-vitae.svg"
     },
     {
       "label": "Github",
@@ -21,7 +23,8 @@
       "svg_path": "img/github.svg"
     }
   ],
-  "work_experience": [
+  "work_experience": null,
+  "work_experience_bak": [
     {
       "company": "FPT Aptech TP.HCM",
       "position": "Student",
@@ -85,7 +88,7 @@
     },
     {
       "category": "DevOps",
-      "skills": "Linux, Git, Github, bash, Neovim, Vite"
+      "skills": "Linux, Git, Github, bash, vim motions, Vite, Tmux"
     }
   ],
   "interests": [
