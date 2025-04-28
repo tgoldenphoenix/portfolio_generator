@@ -13,7 +13,7 @@
   "social_links": [
     {
       "label": "curriculum vitae",
-      "url": "https://drive.google.com/file/d/1wa7EIfGH3Kebhh8jtmX-CeuznlN2QK0D/view?usp=sharing",
+      "url": "https://drive.google.com/file/d/1su-PzEafmvwgq9kopSJBcuYnROZNX1O4/view?usp=sharing",
       "url1": "_self",
       "svg_path": "img/curriculum-vitae.svg"
     },
@@ -23,30 +23,65 @@
       "svg_path": "img/github.svg"
     }
   ],
-  "work_experience": null,
-  "work_experience_bak": [
+  "work_experience_bak": null,
+  "work_experience": [
     {
-      "company": "FPT Aptech TP.HCM",
+      "company": "BenTre High School for Gifted Students",
       "position": "Student",
-      "url": "https://www.facebook.com/aptech.fpt",
+      "url": "https://www.facebook.com/thptchuyenbentre/?locale=vi_VN",
+      "start_date": "2017",
+      "end_date": "2020",
+      "summary": "Major in Biology",
+      "highlights": ""
+    },
+    {
+      "company": "Can Tho University of Medicine and Pharmacy",
+      "position": "General Doctor Undergraduate",
+      "url": "https://www.ctump.edu.vn/",
+      "start_date": "2020",
+      "end_date": "2022",
+      "summary": "Back in high school, my only concern was to pass the exams with good grades and follow the goal set by my parents of becoming a doctor. During the COVID-19 lockdown time, I suddenly had more time at home and began to ask myself if I really want to pursue this career for the next 6-8 years. In the end, after much contemplation and consulting with my family, classmates and teachers, I decided to take my leave of absence from school at the end of the 2nd year.",
+      "highlights": ""
+    },
+    {
+      "company": "Home",
+      "position": "Spent some time finding myself",
+      "url": null,
+      "start_date": "2022",
+      "end_date": "2023",
+      "summary": "This was a courageous endeavour that didn’t have a title. It was quite important to my overall development though so I’m adding it to my CV. Also it explains the gap in my CV.",
+      "highlights": [
+        "Learned programming on freeCodeCamp, CS50",
+        "I also stumbled upon the FOSS community and developed a deep appreciation for it. Today, I use Neovim to write both my LaTeX math notes and other notes that use the markdown syntax. For my front-end projects though, I still use the vim emulation extension in VSCode.",
+        "Refresh my memory about Math since it was my most favourite subject in High School even though my major was biology. I discovered LaTeX which is used to write beautiful math notations.",
+        "Learned Chinese characters. It is worth mentioning that I do not specifically learn Chinese Mandarin. Learning Chinese characters gives me a deeper appreciation regarding the East Asian culture sphere as well as open many opportunities in the future."
+      ]
+    },
+    {
+      "company": "FPT Aptech HCM",
+      "position": "Student",
+      "url": "https://www.facebook.com/aptech.fpt/?locale=vi_VN",
       "start_date": "2023",
       "end_date": "2025",
-      "summary": "",
-      "highlights": ""
+      "summary": "I decided to take learning web development seriously. During my two years at FPT Aptech, I found myself in a very nice environment, compared to self-study at home, with enthusiast lecturers and friendly classmates. They had taught me a lot and also gave me the motivation to keep following this path.",
+      "highlights": null
     }
   ],
   "projects": [
     {
       "title": "Trello UI clone with ReactJS",
-      "summary": "Implement Drag-drop using DND Kit and Materil UI components.",
+      "summary": "Implementing beautiful layout and the Drag-drop feature for task boards and the cards inside them.",
       "url": "https://github.com/tgoldenphoenix/trello-clone-web",
       "live_url": null,
-      "video_demo": "https://drive.google.com/drive/folders/1MxnPfujTQAsMMRZ-4WQ6X8R1rUjq9Wh5?usp=sharing",
+      "video_demo": "https://youtu.be/UEWHVnhfnT0",
       "github": null,
       "highlights": [
-        "React - React Hooks - JSX...",
-        "Drag-drop boards & cards using DND Kit",
-        "Material UI Design"
+        "ReactJS and Material UI for the layout",
+        "Light and Dark mode base on system preference",
+        "DND kit for Drag-drop boards & cards",
+        "Redux to store Board data",
+        "ESLint, Yarn, Node Version Manager, Vite",
+        "Logical project structure that are easy to read and maintain"
       ],
       "images": [
         {
@@ -59,13 +94,14 @@
         },
         {
           "img_path": "portfolio_media/drag.png",
-          "caption": "Drag and Drop"
+          "caption": "Drag and Drop with placeholder and beautiful animation"
         }
       ]
     }
   ],
   "volunteer_experience": null,
-  "education": [
+  "education": null,
+  "education_bak": [
     {
       "institution": "FPT Aptech HCM",
       "location": "Ho Chi Minh City",
